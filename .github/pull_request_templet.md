@@ -7,3 +7,5 @@ _Add more context to describe the changes...
 ### Checks
 - [ ] Tested Changes
 - [ ] Stakeholder Approval
+This is a repo for learnign GitHub
+There is a really great template in this repo.
